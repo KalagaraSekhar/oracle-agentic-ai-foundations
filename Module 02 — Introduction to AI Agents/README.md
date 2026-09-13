@@ -1,8 +1,6 @@
 # Module 02 — Introduction to AI Agents
 
-<p align="center">
-  <img src="../assets/course-banner.png" alt="Introduction to AI Agents" width="850"/>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Module-02-blue"/>
