@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Module-04-blue"/>
   <img src="https://img.shields.io/badge/Status-Completed-success"/>
-  <img src="https://img.shields.io/badge/Focus-Model%20Context%20Protocol-purple"/>
+  <img src="https://img.shields.io/badge/Skill%20Check-100%25-success"/>
 </p>
 
 ---
@@ -656,11 +656,11 @@ This section should contain my own understanding, implementation details, code e
 
 ### Result
 
-**Score:** To be updated
+**Score:** 100%
 
 **Passing Requirement:** To be updated
 
-**Status:** ⏳ Not Attempted
+**Status:** Completed
 
 The skill check will evaluate understanding of the Model Context Protocol, its components, communication process and practical AI agent integrations.
 
