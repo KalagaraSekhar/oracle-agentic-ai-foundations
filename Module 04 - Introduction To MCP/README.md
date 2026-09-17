@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Module-04-blue"/>
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow"/>
+  <img src="https://img.shields.io/badge/Status-Completed-success"/>
   <img src="https://img.shields.io/badge/Focus-Model%20Context%20Protocol-purple"/>
 </p>
 
