@@ -1,8 +1,5 @@
 # Module 01 — Course Overview
 
-<p align="center">
-  <img src="../assets/course-banner.png" alt="Oracle Agentic AI Foundations" width="850"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Module-01-blue"/>
