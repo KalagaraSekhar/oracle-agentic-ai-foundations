@@ -73,7 +73,7 @@ This repository tracks my progress from the fundamentals of AI agents toward ent
 | 01 | Course Overview                            | ✅ Completed |
 | 02 | Introduction to AI Agents                  | ✅ Completed |
 | 03 | LangChain for AI Agents                    | ✅ Completed |
-| 04 | Introduction to MCP                        | ⏳ Upcoming  |
+| 04 | Introduction to MCP                        | ✅ Completed |
 | 05 | OpenAI Responses API and Agents SDK Basics | ⏳ Upcoming  |
 | 06 | Agentic AI for OCI Enterprise AI           | ⏳ Upcoming  |
 | 07 | Agentic AI for Oracle AI Database          | ⏳ Upcoming  |
@@ -210,7 +210,7 @@ oracle-agentic-ai-foundations/
 
 ### Overall Progress
 
-**3 / 7 modules completed**
+**4 / 7 modules completed**
 
 
 
@@ -219,7 +219,7 @@ oracle-agentic-ai-foundations/
 * [x] Course Overview
 * [x] Introduction to AI Agents
 * [x] LangChain for AI Agents
-* [ ] Introduction to MCP
+* [x] Introduction to MCP
 * [ ] OpenAI Responses API and Agents SDK Basics
 * [ ] Agentic AI for OCI Enterprise AI
 * [ ] Agentic AI for Oracle AI Database
