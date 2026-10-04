@@ -59,6 +59,20 @@ The digital badge represents the earned Oracle certification and provides a digi
        width="240"/>
 </p>
 
+🔗 Credential Verification
+
+The certification can be independently verified through the official digital credential issued by Oracle.
+
+<p align="center">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1BA75A05621502AD8EE61F96746E9550CD0C0F6FDC713EA2518C20D043335741">
+    <b>🔎 Verify Oracle Credential</b>
+  </a>
+</p>
+
+<p align="center">
+  <i>Click above to view the official credential and verify the certification.</i>
+</p>
+
 ### 📊 Certification Details
 
 | Credential | Details |
