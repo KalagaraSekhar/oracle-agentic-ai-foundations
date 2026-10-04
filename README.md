@@ -22,62 +22,63 @@
   <a href="#-learning-outcomes">Learning Outcomes</a>
 </p>
 
----
-
 # 🏆 Certification
 
 ## Oracle Agentic AI Foundations Associate
 
-Successfully earned the **Oracle Agentic AI Foundations Associate** certification after completing the **Oracle Agentic AI Foundations (2026)** learning journey.
+Successfully earned the **Oracle Agentic AI Foundations Associate** certification from **Oracle University** after completing the **Oracle Agentic AI Foundations (2026)** learning journey.
 
 <p align="center">
-  <img src="./Oracle-Agentic-AI-Foundations-Associate-Badge.jpg"
-       alt="Oracle Agentic AI Foundations Associate Badge"
+  <img src="./Certification/Oracle-Agentic-AI-Foundations-Associate-Badge.jpg"
+       alt="Oracle Agentic AI Foundations Associate Digital Badge"
        width="200"/>
 </p>
 
 <p align="center">
-  <b>Oracle Agentic AI Foundations Associate — Certified | 2026</b>
+  <b>Oracle Agentic AI Foundations Associate</b><br>
+  Oracle University · 2026 · 🏆 Certified
 </p>
-
----
 
 ### 📜 Official Certificate
 
-The official Oracle certification certificate is available in this repository:
-
-**[📄 View Certificate](./Oracle-Agentic-AI-Foundations-Associate-Certificate.pdf)**
-
-### 🏅 Digital Badge
+The official certification certificate is included in this repository.
 
 <p align="center">
-  <img src="./Oracle-Agentic-AI-Foundations-Associate-Badge.jpg"
-       alt="Oracle Agentic AI Foundations Associate Digital Badge"
-       width="220"/>
+  <a href="./Certification/Oracle-Agentic-AI-Foundations-Associate-Certificate.pdf">
+    <b>📄 View Official Certificate</b>
+  </a>
 </p>
 
-**Credential:** Oracle Agentic AI Foundations Associate  
-**Provider:** Oracle University  
-**Year:** 2026  
-**Status:** ✅ Certified  
-**Learning Modules:** 7 / 7 Completed
+### 🏅 Digital Credential
 
-> The digital badge provides a verifiable representation of the certification and can be used to validate the credential online.
+The digital badge represents the earned Oracle certification and provides a digital credential for the achievement.
 
----
+<p align="center">
+  <img src="./Certification/Oracle-Agentic-AI-Foundations-Associate-Badge.jpg"
+       alt="Oracle Agentic AI Foundations Associate Badge"
+       width="240"/>
+</p>
 
-### 📚 Certification Journey
+### 📊 Certification Details
 
-The certification journey covered the progression from **AI agent fundamentals** to **enterprise-grade Agentic AI and AI database systems**.
+| Credential | Details |
+|---|---|
+| **Certification** | Oracle Agentic AI Foundations Associate |
+| **Provider** | Oracle University |
+| **Year** | 2026 |
+| **Status** | 🏆 Certified |
+| **Learning Journey** | Oracle Agentic AI Foundations |
+| **Modules Completed** | 7 / 7 |
 
-Key areas explored include:
+### 🧠 Areas Covered
 
-- AI Agent fundamentals and architecture
-- Agent reasoning and workflows
-- LangChain
+The certification journey provided structured exposure to:
+
+- Artificial Intelligence and AI Agent fundamentals
+- Agent architecture, reasoning and workflows
+- LangChain for AI agents
 - Model Context Protocol (MCP)
-- OpenAI Responses API
-- OpenAI Agents SDK
+- OpenAI Responses API and Agents SDK
 - Tool and function calling
 - Multi-agent systems and handoffs
 - AI safety and guardrails
@@ -88,23 +89,27 @@ Key areas explored include:
 - Autonomous AI Database MCP Server
 - Enterprise AI deployment and scaling
 
-### 📊 Certification Progress
+### 📈 Certification Journey
 
 ```text
-7 / 7 Modules Completed
-████████████████████████████████████████ 100%
-
-Certification Status: 🏆 EARNED
+AI Foundations
+      ↓
+AI Agents
+      ↓
+Agent Frameworks
+      ↓
+MCP & Interoperability
+      ↓
+OpenAI Agent Systems
+      ↓
+OCI Enterprise AI
+      ↓
+Oracle AI Database
+      ↓
+🏆 CERTIFICATION EARNED
 ```
 
----
-
-### 🔗 Credential
-
-**Official Digital Badge:**  
-https://catalog-education.oracle.com/pls/certview/sharebadge?id=1BA75A05621502AD8EE61F96746E9550CD0C0F6FDC713EA2518C20D043335741
-
-> The verification link will be added once the official public badge URL is available.
+> **Certification earned — now moving from structured learning toward building practical Agentic AI systems.**
 
 ## 📌 About This Repository
 
