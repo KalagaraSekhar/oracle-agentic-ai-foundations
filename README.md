@@ -24,39 +24,87 @@
 
 ---
 
-## 🏆 Certification
+# 🏆 Certification
 
-### Oracle AI Foundations Associate
+## Oracle Agentic AI Foundations Associate
 
-I have successfully earned the **Oracle AI Foundations Associate** certification from **Oracle University** after completing the Oracle Agentic AI Foundations learning journey and successfully passing the certification requirements.
+Successfully earned the **Oracle Agentic AI Foundations Associate** certification after completing the **Oracle Agentic AI Foundations (2026)** learning journey.
 
 <p align="center">
-  <img src="./Certification/completion-evidence/Oracle-Agentic-AI-Foundations-Associate-Badge.jpg"
-       alt="Oracle AI Foundations Associate Badge"
-       width="180"/>
+  <img src="./Oracle-Agentic-AI-Foundations-Associate-Badge.jpg"
+       alt="Oracle Agentic AI Foundations Associate Badge"
+       width="200"/>
 </p>
 
-| Credential | Details |
-|---|---|
-| **Certification** | Oracle AI Foundations Associate |
-| **Provider** | Oracle University |
-| **Year** | 2026 |
-| **Status** | ✅ Certified |
-| **Course** | Oracle Agentic AI Foundations |
-| **Modules** | 7 / 7 Completed |
+<p align="center">
+  <b>Oracle Agentic AI Foundations Associate — Certified | 2026</b>
+</p>
 
-### 📜 Certificate
+---
 
-**Official Oracle Certificate**
+### 📜 Official Certificate
 
-[View / Download Certificate](./Certification/completion-evidence/Oracle-Agentic-AI-Foundations-Associate-Certificate.pdf)
+The official Oracle certification certificate is available in this repository:
+
+**[📄 View Certificate](./Oracle-Agentic-AI-Foundations-Associate-Certificate.pdf)**
 
 ### 🏅 Digital Badge
 
-[Verify Oracle Digital Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1BA75A05621502AD8EE61F96746E9550CD0C0F6FDC713EA2518C20D043335741)
+<p align="center">
+  <img src="./Oracle-Agentic-AI-Foundations-Associate-Badge.jpg"
+       alt="Oracle Agentic AI Foundations Associate Digital Badge"
+       width="220"/>
+</p>
 
+**Credential:** Oracle Agentic AI Foundations Associate  
+**Provider:** Oracle University  
+**Year:** 2026  
+**Status:** ✅ Certified  
+**Learning Modules:** 7 / 7 Completed
+
+> The digital badge provides a verifiable representation of the certification and can be used to validate the credential online.
 
 ---
+
+### 📚 Certification Journey
+
+The certification journey covered the progression from **AI agent fundamentals** to **enterprise-grade Agentic AI and AI database systems**.
+
+Key areas explored include:
+
+- AI Agent fundamentals and architecture
+- Agent reasoning and workflows
+- LangChain
+- Model Context Protocol (MCP)
+- OpenAI Responses API
+- OpenAI Agents SDK
+- Tool and function calling
+- Multi-agent systems and handoffs
+- AI safety and guardrails
+- OCI Enterprise AI
+- Oracle AI Database
+- Oracle AI Vector Search
+- Private Agent Factory
+- Autonomous AI Database MCP Server
+- Enterprise AI deployment and scaling
+
+### 📊 Certification Progress
+
+```text
+7 / 7 Modules Completed
+████████████████████████████████████████ 100%
+
+Certification Status: 🏆 EARNED
+```
+
+---
+
+### 🔗 Credential
+
+**Official Digital Badge:**  
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=1BA75A05621502AD8EE61F96746E9550CD0C0F6FDC713EA2518C20D043335741
+
+> The verification link will be added once the official public badge URL is available.
 
 ## 📌 About This Repository
 
